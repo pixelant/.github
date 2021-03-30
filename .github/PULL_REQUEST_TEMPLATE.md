@@ -25,9 +25,5 @@ Does this PR introduce a breaking change?
 <!-- If this PR contains a breaking change, please add a [!!!] label at the beginning of the commit message. -->
 <!-- If this PR contains a breaking change, please describe the impact and migration path for existing applications below. -->
 
-## Issue references
-
-Issue Number: #...
-
 ## Description
 <!-- Please add a context and reasoning around your changes, to help us merge quickly. -->
