@@ -15,4 +15,4 @@ This isn't the right place to get support for using Pixelant extensions, but if 
 
 If regular instructions are not enough to effectively use extension, then contact us on Slack and we will try to help you.
 
-Join us in [#pixelant](https://typo3.slack.com/messages/C1QSXGMSR) channel on [TYPO3 Slack workspace](https://typo3.slack.com) if you already a member or register [here](https://my.typo3.org/about-mytypo3org/slack).
+Join us in [#pixelant](https://typo3.slack.com/archives/C01SL1QECER) channel on [TYPO3 Slack workspace](https://typo3.slack.com) if you already a member or register [here](https://typo3.org/community/meet/how-to-use-slack-in-the-typo3-community).
